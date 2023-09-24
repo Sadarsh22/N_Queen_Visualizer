@@ -6,4 +6,4 @@ no Queens attack each other by being in the
 same row, column or diagonal. This project
 visualizes the recursive solution algorithm.
 
-if you want to have a preview click on the link https://cooldudeadarsh.github.io/N_Queen_Visualizer/
+if you want to have a preview click on the link https://Sadarsh22.github.io/N_Queen_Visualizer/
